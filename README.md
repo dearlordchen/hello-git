@@ -1,2 +1,2 @@
 # hello-git
-hello-git repository
+hello-git repository from master
